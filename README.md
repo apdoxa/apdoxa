@@ -3,5 +3,5 @@
 - 💻 Computer Science Collage Student
 - Let's appresent the doxa!
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=apdoxa&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=apdoxa&show_icons=true&include_all_commits=true)
 
